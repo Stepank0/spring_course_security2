@@ -9,10 +9,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f7d8ffbb-995a-4943-a176-3e9aba766bf3" name="Changes" comment="make first initialize.&#10;add config and security config">
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/view/view_for_hr.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/view/view_for_managers.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/stepan/spring/security/controller/MyController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/stepan/spring/security/controller/MyController.java" afterDir="false" />
+    <list default="true" id="f7d8ffbb-995a-4943-a176-3e9aba766bf3" name="Changes" comment="update jsp">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/stepan/spring/security/configuration/MySecurityConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/stepan/spring/security/configuration/MySecurityConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/view/view_for_all_employees.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/view/view_for_all_employees.jsp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -163,7 +164,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1678542417309</updated>
-      <workItem from="1678542418623" duration="5863000" />
+      <workItem from="1678542418623" duration="7920000" />
     </task>
     <task id="LOCAL-00001" summary="make first initialize.&#10;add config and security config">
       <created>1678549990027</created>
@@ -172,7 +173,14 @@
       <option name="project" value="LOCAL" />
       <updated>1678549990027</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="update jsp">
+      <created>1678550448323</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1678550448323</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -180,6 +188,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="make first initialize.&#10;add config and security config" />
-    <option name="LAST_COMMIT_MESSAGE" value="make first initialize.&#10;add config and security config" />
+    <MESSAGE value="update jsp" />
+    <option name="LAST_COMMIT_MESSAGE" value="update jsp" />
   </component>
 </project>
